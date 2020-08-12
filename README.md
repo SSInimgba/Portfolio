@@ -31,7 +31,7 @@ I had my first encounter with Data Science while carrying out research for my MS
 | Predicting Customer Purchase Behavior     | Kaggle competition to predict the likelihood of a customer purchasing an item based on their demographic data and past spending habits. It involved exploring the data and preprocessing certain features with high predictive power. Various models were applied, compared, with the best model selected based on the stability and generalization of the model.  ***Result: Achieved accuracy of 0.76*** ***Placement: 2nd out of 32 competitors***         | EDA, Data visualization Data Cleaning and Preprocessing, Model building and experimentation, Hyperparameter tuning, Model Stacking, Model selection Models used: Logistic Regression, Decision Tree,RandomForest, AdaBoosting Classifier, StackingCVClassifier, Voting Classifier GradientBoosting Classifier, XGboost, CatBoost. |
 
 
-## Articles
+# Articles
 | Article                                                                                                        |
 |----------------------------------------------------------------------------------------------------------------|
 | [Using Text Mining on Wizkid's Lyrics](https://medium.com/@s.sinimgba/analysis-of-wizkids-lyrics-3703228f28fc) |
