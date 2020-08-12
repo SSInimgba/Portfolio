@@ -29,8 +29,8 @@ I had my first encounter with Data Science while carrying out research for my MS
 ## Exploratory Data Analysis
 | Project          | Description                                                                                                                                                                                           | Skills Showcased                                      |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Lagos Marathon   | The Lagos Marathon is a popular event that takes place every year in Lagos.  This explores the data from 2017 to 2019 and tells a story about the participating countries, genders, and overall stats | Data Visualization, Data Cleaning  Data Storytelling. |
-| Oyo State Voters | This explores the Oyo state elections voting habits over the years.                                                                                                                                   | Data Visualization                                    |
+| [Lagos Marathon](https://github.com/SSInimgba/Data_Visualizations/blob/master/Lagos_Marathon_(EDA).ipynb)   | The Lagos Marathon is a popular event that takes place every year in Lagos.  This explores the data from 2017 to 2019 and tells a story about the participating countries, genders, and overall stats | Data Visualization, Data Cleaning  Data Storytelling. |
+| [Oyo State Voters](https://github.com/SSInimgba/Data_Visualizations/blob/master/Oyo_State_Voters_EDA.ipynb) | This explores the Oyo state elections voting habits over the years.                                                                                                                                   | Data Visualization                                    |
 
 # Articles
 | Article                                                                                                        |
